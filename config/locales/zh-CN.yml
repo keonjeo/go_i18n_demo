@@ -1,0 +1,7 @@
+err:
+  msg:
+    hello: "你好，世界"
+    kitty: "XXX how are you"
+    model:
+      name:
+        present: "must be present"
