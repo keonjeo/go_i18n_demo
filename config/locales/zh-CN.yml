@@ -1,7 +1,10 @@
 err:
   msg:
-    hello: "你好，世界"
-    kitty: "XXX how are you"
+    hello: "err.msg.hello: 你好，世界"
+    kitty: "err.msg.kitty: 怎么啦？"
     model:
       name:
         present: "must be present"
+hello:
+  world: "Hello, world"
+  good: "bye, bye"

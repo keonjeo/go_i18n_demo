@@ -1,2 +1,10 @@
-msg:
-  hello: "Hello world"
+err:
+  msg:
+    hello: "err.msg.hello: Hello, world!"
+    kitty: "err.msg.kitty: How are you"
+    model:
+      name:
+        present: "err.msg.model.name.present: must be present"
+hello:
+  world: "hello.world: Hello, world"
+  good: "hello.good: bye, bye"
